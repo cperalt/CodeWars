@@ -44,3 +44,10 @@ console.log(findOdd([1,1,2])); //returns 2
 console.log(findOdd([0,1,0,1,0,1,1])); //returns 0
 console.log(findOdd([1,2,2,3,3,3,4,3,3,3,2,2,1])); //returns 4
 console.log(findOdd([5,1,2,2,3,3,3,4,3,3,3,2,2,1,4,])); //returns 5
+
+//Comment How I felt
+//This challenge was actually challenging initially
+//I spent quite a lot of time figuring how how to do this problem but I enjoyed it.
+//This problem made me realize I need to revisit the basics or at least the logic
+//because I found myself gettin lost inside of the for and if loops as there are three levels deep.
+//I also wasnt understanding the counting logic initially

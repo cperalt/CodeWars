@@ -26,3 +26,7 @@ function DNAtoRNA(dna) {
 
 //Test Cases
 console.log(DNAtoRNA("GCAT"));
+
+
+//Comment How I felt
+//Super Easy Challenge

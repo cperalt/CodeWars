@@ -22,3 +22,6 @@ function powersOfTwo(n) {
 console.log(powersOfTwo(2));
 console.log(powersOfTwo(4));
 
+
+//Comment How I felt
+//Super Easy Challenge

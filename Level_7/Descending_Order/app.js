@@ -21,3 +21,7 @@ function descendingOrder(n){
 console.log(descendingOrder(42145));
 console.log(descendingOrder(145263));
 console.log(descendingOrder(123456789));
+
+//Comment How I felt
+//Pretty easy to be considered a level 7 difficulty
+//I am very familitar with the methods I used

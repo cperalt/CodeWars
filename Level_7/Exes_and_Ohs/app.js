@@ -24,3 +24,6 @@ function XO(str) {
     }
     return xArray.length == oArray.length;
 }
+
+//Comment how I felt
+//This challenge was easy. I understood how to do the logic pretty fast.

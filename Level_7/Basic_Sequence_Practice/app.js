@@ -45,3 +45,8 @@ function sumOfN(n) {
 console.log(sumOfN(5));
 console.log(sumOfN(-5));
 console.log(sumOfN(7));
+
+
+//Comment How I felt
+//A little more challenging but not too bad. I understood the logic need and I have
+//the basic concepts I need to use.

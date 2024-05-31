@@ -12,3 +12,5 @@ function smash(words) {
 
 
 console.log(smash(['Hello', 'world']));
+//Comment How I felt
+//Super Easy Challenge
